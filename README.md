@@ -1,4 +1,4 @@
-# Enterprise AI Gateway & Orchestration Mesh
+# Dwarpal: Dwarpal: an LLM gateway with guardrails, cost routing and human approval [Enterprise AI Gateway & Orchestration Mesh]
 
 A reverse proxy that sits between client applications and LLMs. Every request passes through security guardrails, cost-aware routing, stateful execution with RAG evaluation, a human approval gate and OpenTelemetry tracing.
 
